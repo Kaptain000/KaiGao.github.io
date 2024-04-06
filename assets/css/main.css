@@ -163,6 +163,13 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+	#donor-prediction-link {
+		color: blue; /* Change the text color to blue */
+		text-decoration: underline; /* Add underline */
+		font-weight: bold; /* Make the text bold */
+		/* Add any additional styling as needed */
+	  }
+
 		a:hover {
 			border-bottom-color: transparent;
 		}
